@@ -2,6 +2,7 @@
 
 -when I went through the description and searched about it I got to know about arduino device connections
 - Then I opened the attachment given in description and in that attachment i got a code like this
+```
 -   char signalAlpha = digitalRead(2) ? '1' : '0';
 char signalBeta = digitalRead(3) ? '1' : '0';
 char signalGamma = digitalRead(4) ? '0' : '1';
@@ -13,7 +14,8 @@ if (!(signalBeta == '1')) {
 if (0^(signalGamma == '0')) {
 if (signalDelta == '0') {
 
-digitalWrite(enigmaKey, HIGH); 
+digitalWrite(enigmaKey, HIGH);
+```
   
 - Now i have hardware device and four wires
 - In that view attachment it has  digital signals from four different pins as (2,3,4,5)
