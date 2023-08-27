@@ -1,6 +1,6 @@
 # 70ugh_n07_70UgH
 
--when I went through the description and searched about it I got to know about arduino device connections
+- when I went through the description and searched about it I got to know about arduino device connections
 - Then I opened the attachment given in description and in that attachment i got a code like this
 ```
 -   char signalAlpha = digitalRead(2) ? '1' : '0';
