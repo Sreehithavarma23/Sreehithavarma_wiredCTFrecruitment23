@@ -61,4 +61,4 @@ Z	--*
 ```
 - with using this I decoded and found the flag
 - I used flag formate given in description
-- > wired{it_is_what_it_is}
+
