@@ -8,3 +8,7 @@
 - after that i used caesar cipher decoder to decrypt that value we got in binary decoder and the key is (-5)
 - Then with the value we got using cipher decoder then i decrypt that value using vigenere cipher decoder and found the flag
 - I used 3 layers(binary decoder,caesar cipher decoder,vigenere decoder) to decrypt and find the flag
+
+Binary decoder i used (https://cryptii.com/pipes/binary-decoder)
+Ceasar cipher decoder with key -5 (https://www.dcode.fr/caesar-cipher)
+vigenere decoder (https://www.dcode.fr/vigenere-cipher)
