@@ -1,6 +1,6 @@
-#Crypto Layers
+# Crypto Layers
 
--From the data given in the description and in the hint box
+- From the data given in the description and in the hint box
 - I figured out that the given data is in encrypted form i should decrypt that to find flag
 - from the hint box I should use 3 kinds of decypters to decode that
 - First one i should use a binary decoder as mention in the hint box
