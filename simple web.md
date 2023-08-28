@@ -1,4 +1,5 @@
 # simple_web
+`Web`
 
 - Firstly open the deployment given in the description
 - After opening that is redirects us to new page where we need to fill username and password
@@ -6,6 +7,6 @@
 - flag\x20is\x20d2lyZWR7bTVfRGgwbjFfMVNfYjNzVF9jNFB0MTROfQ
 - with that use cybercipher to decode to decrypt that 
 - with cybercipher decoder with key base64 we get the flag
-- FLAG wired{m5_Dh0n1_1S_b3sT_c4Pt14N}
+## FLAG wired{m5_Dh0n1_1S_b3sT_c4Pt14N}
   
 [cyber cipher base64](https://www.dcode.fr/base-64-encoding)
