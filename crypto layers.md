@@ -10,5 +10,7 @@
 - I used 3 layers(binary decoder,caesar cipher decoder,vigenere decoder) to decrypt and find the flag
 
 Binary decoder i used (https://cryptii.com/pipes/binary-decoder)
+
 Ceasar cipher decoder with key -5 (https://www.dcode.fr/caesar-cipher)
+
 vigenere decoder (https://www.dcode.fr/vigenere-cipher)
