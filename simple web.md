@@ -6,3 +6,5 @@
 - 'flag\x20is\x20d2lyZWR7bTVfRGgwbjFf'
 - with that use cybercipher to decode to decrypt that 
 - with cybercipher decoder with key base64 we get the flag
+  
+https://www.dcode.fr/base-64-encoding
