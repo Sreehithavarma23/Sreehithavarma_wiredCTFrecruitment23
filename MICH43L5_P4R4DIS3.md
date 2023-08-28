@@ -6,6 +6,5 @@
 
  https://www.google.com/search?client=firefox-b-e&q=vespucci+boulevard+bridge
  
-[!img](bridge.png)
-  
+
 
