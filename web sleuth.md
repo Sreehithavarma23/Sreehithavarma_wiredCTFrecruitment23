@@ -11,3 +11,5 @@ You can find me on X.
 ```
 - Then i went to twitter and searched for Escobarlavos
 - There in that 2nd post in comments i found the flag
+
+[!img](https://github.com/Sreehithavarma23/wired-ctf/blob/main/screenshots/Screenshot%20from%202023-08-28%2015-35-04.png)
