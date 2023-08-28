@@ -7,4 +7,4 @@
 - Join discord and create a account
 - In discord under Live CTF we got the flag directly as welcome flag
 - wired{AllSetLetsGetStarted}
-- 
+- [!img](
