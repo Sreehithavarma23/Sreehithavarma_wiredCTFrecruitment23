@@ -8,6 +8,6 @@
 - Then I selected the appropriate board as arduino uno and COM port as com port 6 USB as it flashed there , then upload your code to the ESP8266.
 - I opened serial monitor to see output and debug
 - Now i used basic python code to print variable in that
-- after this i found the flag
+- After this I found the flag in encrypted form so I decrypted that and submitted the flag
 - I placed that in the given formate
 - flag- wired{...}
