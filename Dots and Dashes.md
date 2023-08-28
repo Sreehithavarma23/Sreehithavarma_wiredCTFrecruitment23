@@ -3,7 +3,7 @@
 
 - Connected the hardware device to laptop via USB
 - Recorded the audio from the hardware device
-- from the audio when I got a single beep sound I kept a dot(.) and when I got a long continous beep sound I kept a dash (___) and when no sound I gave space between
+- From the audio when I got a single beep sound I kept a dot(.) and when I got a long continous beep sound I kept a dash (___) and when no sound I gave space between
 - with that dots and dashes I got I searched about morse code decoding and decoded those dots and dashes with those alphabets
 - Letter	Morse	NATO	English
 ```  
