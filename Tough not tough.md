@@ -1,4 +1,5 @@
 # 70ugh_n07_70UgH
+`Embedded`
 
 - when I went through the description and searched about it I got to know about arduino device connections
 - Then I opened the attachment given in description and in that attachment i got a code like this
@@ -26,4 +27,5 @@ digitalWrite(enigmaKey, HIGH);
 - From signalBeta digitalRead(3) value it shows that value !1 is not equal to 1 which means 0
 - From signalGamma digitalRead(4) value the third condition checks if the result of the XOR operation between 0 and the boolean expression signalGamma == '0' is true this checks if signalGamma is equal to '1' now third condition is equal to 1
 - From signalDelta digitlRead(5) value it shows that the value is equals to 0
-- After connecting these pins  accordingly and connecting the device to laptop i found the flag and kept that flag in given format
+- After connecting these pins  accordingly and connecting the device to laptop i decoded and found the flag and kept that flag in given format
+  
