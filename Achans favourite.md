@@ -9,8 +9,5 @@
 - I converted that name into flag format
 
  https://www.google.com/search?client=firefox-b-e&q=steven+he
-
-***
-## Flag:
-`wired{}`
-***
+ 
+## Flag: `wired{}`
