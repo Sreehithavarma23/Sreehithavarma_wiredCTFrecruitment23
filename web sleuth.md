@@ -1,5 +1,5 @@
 # Web Sleuth
-
+`Web`
 - After going to GitHub website: https://github.com/
 - In the search bar at the top,  I enter "Esteban Lavos" and press Enter.
 From the search results click on the user's profile to access the repositories.
@@ -13,3 +13,7 @@ You can find me on X.
 - There in that 2nd post in comments i found the flag
 
 ![img](https://github.com/Sreehithavarma23/wired-ctf/blob/main/screenshots/Screenshot%20from%202023-08-28%2015-35-04.png)
+
+## Flag: `wired{h3r3_i5_y0ur_f14g}`
+
+
