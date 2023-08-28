@@ -6,4 +6,4 @@
 - In those DNS protocol flag was directly given
 -  Now convert that flag to the format given in description
 
-![img] (https://github.com/Sreehithavarma23/wired-ctf/blob/main/screenshots/Screenshot%20from%202023-08-28%2009-55-02.png)
+![img](https://github.com/Sreehithavarma23/wired-ctf/blob/main/screenshots/Screenshot%20from%202023-08-28%2009-55-02.png)
