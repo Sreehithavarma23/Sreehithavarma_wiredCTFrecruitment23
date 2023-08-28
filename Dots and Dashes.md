@@ -1,5 +1,6 @@
 # D0t5 & D4sh35
 
+`Embedded`
 
 - Connected the hardware device to laptop via USB
 - Recorded the audio from the hardware device
