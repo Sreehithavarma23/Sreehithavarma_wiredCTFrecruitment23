@@ -1,5 +1,5 @@
 # Web Sleuth
-`Mics`
+`Misc`
 
 - After going to GitHub website: https://github.com/
 - In the search bar at the top,  I enter "Esteban Lavos" and press Enter.
