@@ -40,5 +40,5 @@ void loop() {
   // Your code here
 }
 ```
-- In this code we have to replace ` /myfile.txt` with the actual path to your file given there.
+- In this code we have to replace ` /myfile.txt` with the actual path to your file given there as `7ry_70_0p3n`
 - Now with this you will get the flag and place the flag in given given format.
