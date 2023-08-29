@@ -1,10 +1,10 @@
 # get-wired 1
-`Mics`
+`Misc`
 
 - It was a welcome flag we got after entering the ctf area
 
 # get-wired 2
-`Mics`
+`Misc`
 
 - Join discord and create a account
 - In discord under Live CTF we got the flag directly as welcome flag
