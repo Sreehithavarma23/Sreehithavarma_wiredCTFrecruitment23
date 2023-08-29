@@ -1,5 +1,5 @@
 # Find me!
-`Mics`
+`Misc`
 
 - After reading the description it was given that Jenisha Harrison went on a solo trip after graduation and hasn’t returned since.
 - But maybe checking her socials can be helpful.
