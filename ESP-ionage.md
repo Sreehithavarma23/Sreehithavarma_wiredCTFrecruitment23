@@ -1,4 +1,5 @@
 #ESP-ionage
+`Embedded`
 
 - Connect the hardware device to laptop via USB
 - Then check for access point then open ESP32 board
@@ -9,6 +10,7 @@
 - Now submit the flag in given format
 - 
   (https://www.dcode.fr/caesar-cipher)
+  
    ( 192.168.4.1)
 
 # Flag -  wired{html_m0m3nt}
