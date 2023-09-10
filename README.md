@@ -1,4 +1,3 @@
-# Sreehithavarma_Recruitment2023
 # WIRED-CTF 2023
 Writeups for the challenges I solved in WIRED-CTF 2023.
 
