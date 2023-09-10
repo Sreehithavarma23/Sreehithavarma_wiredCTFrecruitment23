@@ -9,5 +9,5 @@
 - Now in that hardware devive we are given 3 pins to connect and one small device which has inputs and output
 - Connect these wires from arduino to potentiometer
 - After this connect the hardware device to laptop via USB
-- Now when we open Arduino IDE we get encrypted flag we should decrypt that and place in flag format
+- Now when we open Arduino IDE we get encrypted flag we should decrypt that and place in flag format.
 # Flag - wired{...}
