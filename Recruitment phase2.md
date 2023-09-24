@@ -38,7 +38,7 @@
 ![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo1.png)
 
 
-```Irish Name Repo```
+```Irish Name Repo 2```
 - In the description they gave link which redirects to page same like irish name repo 1.
 - I tried this same SQL Injection of ' OR 1=1-- here, we get nothing but a page that says SQLi detected
 - After some blind SQLi, we bypass it by setting the username to ```admin'--``` and password can be anything so same ```password```
@@ -46,4 +46,14 @@
 ## Flag - picoCTF{m0R3_SQL_plz_fa983901}
 ![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo2.png)
 
-- 
+
+```Irish Name Repo 3```
+- Once again we are brought back to what seems like the same page as in Irish-Name-Repo 1 and 2.
+-  This time when we enter a SQL Injection such as ' or 1=1--, we get a server side we get something like this
+``` password: ' or 1=1-- SQL query: SELECT * FROM admin where password = '' be 1=1--'```
+-We see that the alphabetical characters 'o' and 'r' have been swapped to a 'b' and 'e'. Let's try putting every letter in the alphabet after the comment to see exactly what happens.
+- ``` ' or 1=1--abcdefghijklmnopqrstuvwxyz``` both worked and I got the flag.
+## Flag - picoCTF{3v3n_m0r3_SQL_06a9db19}
+
+
+ 
