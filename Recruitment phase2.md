@@ -44,5 +44,6 @@
 - After some blind SQLi, we bypass it by setting the username to ```admin'--``` and password can be anything so same ```password```
   - from this I found the flag.
 ## Flag - picoCTF{m0R3_SQL_plz_fa983901}
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo2.png)
 
 - 
