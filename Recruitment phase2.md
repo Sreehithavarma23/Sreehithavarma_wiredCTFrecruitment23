@@ -54,6 +54,6 @@
 -We see that the alphabetical characters 'o' and 'r' have been swapped to a 'b' and 'e'. Let's try putting every letter in the alphabet after the comment to see exactly what happens.
 - ``` ' or 1=1--abcdefghijklmnopqrstuvwxyz``` both worked and I got the flag.
 ## Flag - picoCTF{3v3n_m0r3_SQL_06a9db19}
-
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo%203.png)
 
  
