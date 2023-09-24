@@ -21,3 +21,4 @@
 - Now from help I used \? to get help about psql commands in that informations I found list of relation tables
 - so I used \d  in that I got table in that we have flags so I used ```select * from flags;``` in that I got the flag.
 ## Flag - picoCTF{L3arN_S0m3_5qL_t0d4Y_73b0678f}
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/sql%20direct.png)
