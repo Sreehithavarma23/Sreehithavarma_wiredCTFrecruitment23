@@ -39,5 +39,10 @@
 
 
 ```Irish Name Repo```
-- In the description they gave link which directs to page same like irish name repo 1.
+- In the description they gave link which redirects to page same like irish name repo 1.
+- I tried this same SQL Injection of ' OR 1=1-- here, we get nothing but a page that says SQLi detected
+- After some blind SQLi, we bypass it by setting the username to ```admin'--``` and password can be anything so same ```password```
+  - from this I found the flag.
+## Flag - picoCTF{m0R3_SQL_plz_fa983901}
+
 - 
