@@ -35,3 +35,4 @@
 - Here this  query checks if the username is equal to nothing ,Then it checks OR 1=1 as 1 boolean value true .The -- at the end simply comments out the rest of the query.
 - This fools the server into letting us through the portal.
 ## Flag -  picoCTF{s0m3_SQL_c218b685}
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo1.png)
