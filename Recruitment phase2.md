@@ -56,4 +56,11 @@
 ## Flag - picoCTF{3v3n_m0r3_SQL_06a9db19}
 ![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo%203.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# EMBEDDED
+## Tinker Cad Challenges
+1 - ``` Make a simple Traffic light controlled using a push button(Pullup or pulldown). Each time we press the button the LEDs should change.```
+
+
+
  
