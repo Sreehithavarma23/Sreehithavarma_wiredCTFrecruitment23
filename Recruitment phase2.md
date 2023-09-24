@@ -9,3 +9,4 @@
 - As in the hint box it was given that modify cookie so I changes isadmin value from 0 to 1 as 1 is boolean always true.
 - After refresing the page the got the flag.
 ## Flag - picoCTF{gr4d3_A_c00k13_5d2505be}
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/powercookie.png)
