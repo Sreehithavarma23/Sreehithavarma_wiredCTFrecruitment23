@@ -36,3 +36,8 @@
 - This fools the server into letting us through the portal.
 ## Flag -  picoCTF{s0m3_SQL_c218b685}
 ![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo1.png)
+
+
+```Irish Name Repo```
+- In the description they gave link which directs to page same like irish name repo 1.
+- 
