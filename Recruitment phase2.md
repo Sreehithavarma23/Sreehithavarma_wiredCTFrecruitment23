@@ -56,11 +56,34 @@
 ## Flag - picoCTF{3v3n_m0r3_SQL_06a9db19}
 ![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/irish%20name%20repo%203.png)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # EMBEDDED
 ## Tinker Cad Challenges
 1 - ``` Make a simple Traffic light controlled using a push button(Pullup or pulldown). Each time we press the button the LEDs should change.```
 
-
-
- 
+- Firstly open tinker cad and login then Create a new circuit by clicking on "Create New Circuit."
+- In the Components panel, search for the following components and add them to your workspace.
+-  Arduino UNO
+    Breadboard
+    3 LEDs (Red, Yellow, and Green)
+    3 current-limiting resistors (220-330 ohms)
+    Push button
+    10k-ohm resistor (for the pull-up)
+    Jumper wires
+##  Assembly the circuits as following:
+- Connect the long leg (anode) of the red LED to digital pin 2 of the Arduino .    
+- Connect the long leg of the yellow LED to digital pin 3 .
+- Connect the long leg of the green LED to digital pin 4 .
+- Connect one terminal of the push button to digital pin 5.
+- Connect the other terminal of the push button to the ground (GND) rail on the breadboard.
+- Connect a 10k ohm resistor between the same terminal of the push button and the 5V rail on the breadboard.
+- And then now in code panel and searched in google how stimulate that from that I built the code and then start stimulation button.
+--------------------------------------------------------------------------------------------------------------------------------  
+2 -``` Make a circuit involving Potentiometer so that a servo motor will rotate according to the potentiometer value.```
+- open tinker cad ,Click on "Create New Circuit" to start a new project.
+- Search and add the following components to your virtual circuit.
+-  Arduino UNO
+    Servo Motor
+    Potentiometer
+    Breadboard
+  - 
