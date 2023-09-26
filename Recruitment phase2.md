@@ -93,3 +93,4 @@
   -  Connect the servo motor's power to the 5V rail on the breadboard.
   -  Connect the servo motor's ground to the GND (ground) rail on the breadboard to anode so that whole is considered as ground
   - Then I gave the code to rotate that servo meter.
+![img](https://github.com/Sreehithavarma23/Sreehithavarma_wiredCTFrecruitment23/blob/main/screenshots/Screenshot%20from%202023-09-09%2017-47-02.png)
