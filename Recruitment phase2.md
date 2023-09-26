@@ -86,4 +86,10 @@
     Servo Motor
     Potentiometer
     Breadboard
-  - 
+  - Connect one end of the potentiometer to the 5V rail on the breadboard.
+  - Connect the other end of the potentiometer to the GND on the breadboard.
+  - Connect the middle pin of the potentiometer to analog pin A0 on the Arduino.
+  - Connect the servo motor's signal  to digital pin 9 on the Arduino.
+  -  Connect the servo motor's power to the 5V rail on the breadboard.
+  -  Connect the servo motor's ground to the GND (ground) rail on the breadboard to anode so that whole is considered as ground
+  - Then I gave the code to rotate that servo meter.
