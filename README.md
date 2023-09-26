@@ -12,4 +12,5 @@ Writeups for the challenges I solved in WIRED-CTF 2023.
 8. get-wired                        18. extraCt
 9. Web Sleuth                        19. µPython_flag
 10. MICH43L5_P4R4DIS3                20. simple_web
+21 . 
 ```
