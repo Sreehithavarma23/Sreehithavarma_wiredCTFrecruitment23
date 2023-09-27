@@ -64,12 +64,12 @@
 - Firstly open tinker cad and login then Create a new circuit by clicking on "Create New Circuit."
 - In the Components panel, search for the following components and add them to your workspace.
 -  Arduino UNO
-    Breadboard
-    3 LEDs (Red, Yellow, and Green)
-    3 current-limiting resistors (220-330 ohms)
-    Push button
-    10k-ohm resistor (for the pull-up)
-    Jumper wires
+   - Breadboard
+    - 3 LEDs (Red, Yellow, and Green)
+   -  3 current-limiting resistors (220-330 ohms)
+   - Push button
+    -10k-ohm resistor (for the pull-up)
+    -Jumper wires
 ##  Assembly the circuits as following:
 - Connect the long leg (anode) of the red LED to digital pin 2 of the Arduino .    
 - Connect the long leg of the yellow LED to digital pin 3 .
@@ -83,9 +83,9 @@
 - open tinker cad ,Click on "Create New Circuit" to start a new project.
 - Search and add the following components to your virtual circuit.
 -  Arduino UNO
-    Servo Motor
-    Potentiometer
-    Breadboard
+   - Servo Motor
+   - Potentiometer
+   - Breadboard
   - Connect one end of the potentiometer to the 5V rail on the breadboard.
   - Connect the other end of the potentiometer to the GND on the breadboard.
   - Connect the middle pin of the potentiometer to analog pin A0 on the Arduino.
