@@ -6,7 +6,7 @@
 - After that I used flag format to submit the flag
 
  https://www.google.com/search?client=firefox-b-e&q=vespucci+boulevard+bridge
- Bridge name - Vespucci Boulevard Bridge 
+  - Bridge name - ```Vespucci Boulevard Bridge``` 
 
  ![img](https://github.com/Sreehithavarma23/wired-ctf/blob/main/screenshots/bridge(1).png)
  
