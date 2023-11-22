@@ -1,6 +1,6 @@
 # Bandit Over The Wire
 ---------------------------------------------------------------------------------------------------------------
-## Bandit level 0-1
+## Bandit level 0
 key-The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 - So I used ```ssh bandit0@bandit.labs.overthewire.org -p 2220``` to login into bandit level 0 using password as bandit0, then ls from ls I got ```readme``` so I used ```cat readme```. 
 - From this I got the password.
@@ -26,6 +26,7 @@ rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 key-The password for the next level is stored in a file called spaces in this filename located in the home directory.
 - Login with ```ssh bandit2@bandit.labs.overthewire.org -p 2220```
 - Doing an ls shows that the filename has spaces in it. To deal with passing it as a command parameter, it needs to be enclosed within quotes - " ".```cat "spaces in this filename"```
+- to open dash file name we use ""
 ```
 bandit2@bandit:~$ ls
 spaces in this filename
